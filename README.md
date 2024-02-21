@@ -14,7 +14,7 @@
 - [ ]  **2.**  Crear funcion que añada la data del formulario al objeto, y llame la funcion construida por George de guardado en local storage"
 - [ ]  **3.**  Hacer lo mismo pero que permita editar los datos"
 
-### **🍷🏡❤️ - La misteriosa que no tiene su nombre en whatsapp**
+### **Vielka**
 
 - [ ]  **1.**  Crear funcion que muestre la data en la tabla, a traves de un template"
 - [ ]  **2.**  Llamar la funcion de George que recupera datos del localstorage siempre que cargue el DOM y la añada en la tabla"
